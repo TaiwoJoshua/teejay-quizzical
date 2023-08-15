@@ -108,7 +108,7 @@ export default function App() {
         </div>}
       </form>}
 
-      {showAnswerAll && <h5 style={{color: "red"}}>You have to answer all questions</h5>}
+      {showAnswerAll && <h5 style={{color: "red", zIndex: 2}}>You have to answer all questions</h5>}
 
       {submitted && <div className='result'>
         <h6>You scored {score}/5 correct answers</h6>
