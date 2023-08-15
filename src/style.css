@@ -109,6 +109,7 @@ body{
   border: 1px solid #4D5A9E;
   margin: 5px;
   cursor: pointer;
+  text-align: center;
 }
 
 input[type="radio"]{
