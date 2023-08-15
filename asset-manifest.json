@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/teejay-quizzical/static/css/main.71d8c32f.css",
+    "main.css": "/teejay-quizzical/static/css/main.a1668087.css",
     "main.js": "/teejay-quizzical/static/js/main.53bd03a7.js",
     "index.html": "/teejay-quizzical/index.html",
-    "main.71d8c32f.css.map": "/teejay-quizzical/static/css/main.71d8c32f.css.map",
+    "main.a1668087.css.map": "/teejay-quizzical/static/css/main.a1668087.css.map",
     "main.53bd03a7.js.map": "/teejay-quizzical/static/js/main.53bd03a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.71d8c32f.css",
+    "static/css/main.a1668087.css",
     "static/js/main.53bd03a7.js"
   ]
 }
