@@ -1,5 +1,6 @@
 {
-  "homepage": "http://taiwojoshua.github.io/teejay-quizzical",
+  "homepage": ".",
+  "github-homepage": "http://taiwojoshua.github.io/teejay-quizzical",
   "name": "project5-quizzical",
   "version": "0.1.0",
   "private": true,
